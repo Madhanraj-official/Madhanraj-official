@@ -12,7 +12,10 @@
 
 ---
 <h1 align=center>💫 About Me:</h1>
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on G-Tec Computer Education<br>
+👯 I’m looking to collaborate on Linux<br>
+<!-- 🤝 I’m looking for help with<br> -->
+🌱 I’m currently learning Rust<br>💬 Ask me about<br>⚡ Fun fact
 
 
 # <h1 align=center>💻 Tech Stack:</h1>
